@@ -15,4 +15,4 @@
 /log/*.log
 /tmp
 
-app/assests/javascripts/apiKeys.js
+/assets/javascripts/apiKeys.js
